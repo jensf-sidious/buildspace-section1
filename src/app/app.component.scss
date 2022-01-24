@@ -1,0 +1,10 @@
+.mainContainer, .dataContainer {
+  height: 100%;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
